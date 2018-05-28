@@ -159,10 +159,10 @@ You can try their BETA https://beta.graphcms.com
 * firebase deploy
 
 #### links uteis
-https://app.graphcms.com/
-https://graphiql.graphcms.com/
-https://beta--graphcms-website.netlify.com/beta/
-https://www.apollographql.com/
-https://console.firebase.google.com
-https://github.com/Mindera/fe-techday-workshop
-https://myfirstproject-52438.firebaseapp.com/
+* https://app.graphcms.com/
+* https://graphiql.graphcms.com/
+* https://beta--graphcms-website.netlify.com/beta/
+* https://www.apollographql.com/
+* https://console.firebase.google.com
+* https://github.com/Mindera/fe-techday-workshop
+* https://myfirstproject-52438.firebaseapp.com/
